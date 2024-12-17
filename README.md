@@ -19,3 +19,25 @@
 ##### Fluxogramas: é uma representação visual de um processo ou algoritmo, utilizando símbolos gráficos interconectados para mostrar a sequência de passos necessários para resolver um problema ou realizar uma tarefa. A ideia é representar visualmente o fluxo de informações e a sequência de operações de forma clara e compreensível. Isso facilita a compreensão do processo, a identificação de possíveis problemas e a comunicação entre membros de uma equipe.
 
 ##### Pseudo-códigos: é uma forma de representar algoritmos utilizando uma mistura de linguagem natural com algumas convenções de programação. Ele não segue a sintaxe de nenhuma linguagem de programação específica, mas oferece uma maneira simples de expressar a lógica de um algoritmo de forma mais compreensível e próxima da linguagem humana.
+
+### Seção 2: variáveis e tipos de valores
+
+##### Variável: um endereço na memória que armazena um valor.
+
+##### Constante: depois que a memória é ocupada, não podemos alterar seu conteúdo.
+
+##### JavaScript é case sensitive.
+
+##### Tipos de dados:
+    - String (texto);
+    - Número (decimal ou inteiro);
+    - Boolean (verdade ou mentira).
+
+##### Operadores Aritméticos:
+    - Somar (+);
+    - Subtrair (-);
+    - Multiplicar (*);
+    - Dividir (/);
+    - Resto da divisão ou módulo (%);
+
+##### 
