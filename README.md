@@ -40,4 +40,22 @@
     - Dividir (/);
     - Resto da divisão ou módulo (%);
 
-##### 
+##### Precedência de Operadores:
+    - Exponenciação;
+    - Multiplicação;
+    - Divisão;
+    - Resto (módulo);
+    - Adição;
+    - Subtração.
+    ps: alguns é o que vier primeiro, ex: subtração e adição.
+
+##### Operadores de atribuição:
+    - Atribuição =
+    - Adição e atribuição +=
+    - Subtração e atribuição -=
+    - Multiplicação e atribuição *=
+    - Divisão e atribuição /=
+    - Resto e atribuição %=
+    - Exponenciação e atribuição **=
+    
+
