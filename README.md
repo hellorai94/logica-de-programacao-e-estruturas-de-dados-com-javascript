@@ -57,5 +57,9 @@
     - Divisão e atribuição /=
     - Resto e atribuição %=
     - Exponenciação e atribuição **=
-    
 
+##### Operadores de Incremento e Decremento
+    - Incremento ++
+    - Decremento --
+    - Pre X++ | X--
+    - Pos ++X | --X
